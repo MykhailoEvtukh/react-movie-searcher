@@ -19,6 +19,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  "homepage" : "https://mykhailoevtukh.github.io/react-movie-searcher",
   "eslintConfig": {
     "extends": "react-app"
   },
