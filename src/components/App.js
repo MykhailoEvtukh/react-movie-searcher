@@ -17,7 +17,7 @@ const App = () => {
       <Suspense
         fallback={
           <Loader
-            type="Puff"
+            type="Bars"
             color="#aa77cc"
             height={50}
             width={50}
